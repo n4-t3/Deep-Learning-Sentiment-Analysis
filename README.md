@@ -22,6 +22,18 @@ The dataset contains 50,000 movie reviews labeled as **positive** or **negative*
 
 ---
 
+## Testing Result
+
+```python
+new_reivew = "That movie was the best film this year"
+sentiment = predict_sentiment(new_reivew)
+print(f"The Sentiment of the review is: {sentiment}")
+```
+```
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 464ms/step
+The Sentiment of the review is: positive
+```
+
 ## License
 
 This project is licensed under the BEER-WARE License - see the [LICENSE](LICENSE) file for details.
