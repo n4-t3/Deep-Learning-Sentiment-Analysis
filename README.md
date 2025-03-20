@@ -24,5 +24,5 @@ The dataset contains 50,000 movie reviews labeled as **positive** or **negative*
 
 ## License
 
-MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the BEER-WARE License - see the [LICENSE](LICENSE) file for details.
 
